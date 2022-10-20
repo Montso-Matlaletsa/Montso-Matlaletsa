@@ -2,7 +2,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Montso-Matlaletsa&show_icons=true&theme=radical" />
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montso-Matlaletsa&exclude_repo=21sh&hide=c,php,c%2B%2B" />
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montso-Matlaletsa&count_private=true&hide=c,php,c%2B%2B" />
 
 \
 &nbsp;
